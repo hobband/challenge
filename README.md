@@ -7,6 +7,6 @@ Challenge for Dio
 
 [Guia Html](https://www.w3schools.com/html/)
 
-[Guia CSS](https://www.w3schools.com/css/default.asp)
+[Guia CSS](https://www.w3schools.com/css/css_intro.asp)
 
 [Git](https://git-scm.com/downloads)
